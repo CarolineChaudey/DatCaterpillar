@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Application-Id: DatCaterpillar
+Application-Version: 0.1.0
+Application-PrintableName: DatCaterpillar
+Application-Description: DatCaterpillar
+Application-IconsDirectory: icons
+Application-Activities: fr.datcaterpillar.MainActivity
